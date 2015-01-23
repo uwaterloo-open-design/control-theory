@@ -1,0 +1,12 @@
+[submodule "psas-filters"]
+	path = psas-filters
+	url = https://github.com/psas/filters
+[submodule "psas-gps"]
+	path = psas-gps
+	url = https://github.com/psas/gps
+[submodule "psas-visualizer"]
+	path = psas-visualizer
+	url = https://github.com/psas/visualizer
+[submodule "estimator"]
+	path = estimator
+	url = https://github.com/GaloisInc/estimator.git
